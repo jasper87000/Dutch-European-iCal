@@ -1,0 +1,372 @@
+{
+ "matches": {
+  "Champions League|Barcelona|Feyenoord": {
+   "away": "Feyenoord",
+   "competition": "Champions League",
+   "home": "Barcelona",
+   "kickoff_utc": "2026-09-09T16:45:00Z",
+   "round": "Competitiefase",
+   "score": [
+    5,
+    1
+   ],
+   "source": "seed"
+  },
+  "Champions League|Feyenoord|Como": {
+   "away": "Como",
+   "competition": "Champions League",
+   "home": "Feyenoord",
+   "kickoff_utc": "2026-10-14T16:45:00Z",
+   "round": "Competitiefase",
+   "score": [
+    3,
+    2
+   ],
+   "source": "seed"
+  },
+  "Champions League|Feyenoord|Inter": {
+   "away": "Inter",
+   "competition": "Champions League",
+   "home": "Feyenoord",
+   "kickoff_utc": "2026-11-03T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Feyenoord|Porto": {
+   "away": "Porto",
+   "competition": "Champions League",
+   "home": "Feyenoord",
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Feyenoord|RB Leipzig": {
+   "away": "RB Leipzig",
+   "competition": "Champions League",
+   "home": "Feyenoord",
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Galatasaray|Feyenoord": {
+   "away": "Feyenoord",
+   "competition": "Champions League",
+   "home": "Galatasaray",
+   "kickoff_utc": "2027-01-19T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|PSV|Atlético Madrid": {
+   "away": "Atlético Madrid",
+   "competition": "Champions League",
+   "home": "PSV",
+   "kickoff_utc": "2026-12-09T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|PSV|Club Brugge": {
+   "away": "Club Brugge",
+   "competition": "Champions League",
+   "home": "PSV",
+   "kickoff_utc": "2026-11-04T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|PSV|Shakhtar Donetsk": {
+   "away": "Shakhtar Donetsk",
+   "competition": "Champions League",
+   "home": "PSV",
+   "kickoff_utc": "2026-09-10T16:45:00Z",
+   "round": "Competitiefase",
+   "score": [
+    1,
+    1
+   ],
+   "source": "seed"
+  },
+  "Champions League|PSV|Stuttgart": {
+   "away": "Stuttgart",
+   "competition": "Champions League",
+   "home": "PSV",
+   "kickoff_utc": "2027-01-27T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Porto|PSV": {
+   "away": "PSV",
+   "competition": "Champions League",
+   "home": "Porto",
+   "kickoff_utc": "2026-10-20T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|RB Leipzig|PSV": {
+   "away": "PSV",
+   "competition": "Champions League",
+   "home": "RB Leipzig",
+   "kickoff_utc": "2026-10-13T19:00:00Z",
+   "round": "Competitiefase",
+   "score": [
+    1,
+    0
+   ],
+   "source": "seed"
+  },
+  "Champions League|Real Betis|Feyenoord": {
+   "away": "Feyenoord",
+   "competition": "Champions League",
+   "home": "Real Betis",
+   "kickoff_utc": "2026-10-21T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Real Madrid|PSV": {
+   "away": "PSV",
+   "competition": "Champions League",
+   "home": "Real Madrid",
+   "kickoff_utc": "2026-11-24T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Viking|Feyenoord": {
+   "away": "Feyenoord",
+   "competition": "Champions League",
+   "home": "Viking",
+   "kickoff_utc": "2026-12-08T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Champions League|Viking|PSV": {
+   "away": "PSV",
+   "competition": "Champions League",
+   "home": "Viking",
+   "kickoff_utc": "2027-01-20T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Aarhus|FC Twente": {
+   "away": "FC Twente",
+   "competition": "Conference League",
+   "home": "Aarhus",
+   "kickoff_utc": "2026-12-10T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Ajax|Atalanta": {
+   "away": "Atalanta",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_utc": "2026-10-22T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Ajax|FC Thun": {
+   "away": "FC Thun",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_utc": "2026-11-26T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Ajax|Getafe": {
+   "away": "Getafe",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_utc": "2026-12-17T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|FC Midtjylland|Ajax": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "FC Midtjylland",
+   "kickoff_utc": "2026-11-05T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|FC Twente|FC Thun": {
+   "away": "FC Thun",
+   "competition": "Conference League",
+   "home": "FC Twente",
+   "kickoff_utc": "2026-10-15T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|FC Twente|Kairat Almaty": {
+   "away": "Kairat Almaty",
+   "competition": "Conference League",
+   "home": "FC Twente",
+   "kickoff_utc": "2026-12-17T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|FC Twente|Pafos": {
+   "away": "Pafos",
+   "competition": "Conference League",
+   "home": "FC Twente",
+   "kickoff_utc": "2026-11-05T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Hajduk Split|Ajax": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "Hajduk Split",
+   "kickoff_utc": "2026-10-15T16:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Lincoln Red Imps|FC Twente": {
+   "away": "FC Twente",
+   "competition": "Conference League",
+   "home": "Lincoln Red Imps",
+   "kickoff_utc": "2026-10-22T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|SC Freiburg|FC Twente": {
+   "away": "FC Twente",
+   "competition": "Conference League",
+   "home": "SC Freiburg",
+   "kickoff_utc": "2026-11-26T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Conference League|Sint-Truiden|Ajax": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "Sint-Truiden",
+   "kickoff_utc": "2026-12-10T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|AZ|Dinamo Zagreb": {
+   "away": "Dinamo Zagreb",
+   "competition": "Europa League",
+   "home": "AZ",
+   "kickoff_utc": "2027-01-21T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|AZ|Hapoel Beer Sheva": {
+   "away": "Hapoel Beer Sheva",
+   "competition": "Europa League",
+   "home": "AZ",
+   "kickoff_utc": "2026-10-15T16:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|AZ|Juventus": {
+   "away": "Juventus",
+   "competition": "Europa League",
+   "home": "AZ",
+   "kickoff_utc": "2026-11-05T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|AZ|Sturm Graz": {
+   "away": "Sturm Graz",
+   "competition": "Europa League",
+   "home": "AZ",
+   "kickoff_utc": "2026-12-10T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Ararat-Armenia|AZ": {
+   "away": "AZ",
+   "competition": "Europa League",
+   "home": "Ararat-Armenia",
+   "kickoff_utc": "2026-10-22T16:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Ararat-Armenia|NEC": {
+   "away": "NEC",
+   "competition": "Europa League",
+   "home": "Ararat-Armenia",
+   "kickoff_utc": "2026-12-10T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Benfica|AZ": {
+   "away": "AZ",
+   "competition": "Europa League",
+   "home": "Benfica",
+   "kickoff_utc": "2027-01-28T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Dinamo Zagreb|NEC": {
+   "away": "NEC",
+   "competition": "Europa League",
+   "home": "Dinamo Zagreb",
+   "kickoff_utc": "2026-10-22T16:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Juventus|NEC": {
+   "away": "NEC",
+   "competition": "Europa League",
+   "home": "Juventus",
+   "kickoff_utc": "2026-09-17T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|NEC|Benfica": {
+   "away": "Benfica",
+   "competition": "Europa League",
+   "home": "NEC",
+   "kickoff_utc": "2027-01-21T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|NEC|Levski Sofia": {
+   "away": "Levski Sofia",
+   "competition": "Europa League",
+   "home": "NEC",
+   "kickoff_utc": "2026-10-15T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|NEC|Omonia Nicosia": {
+   "away": "Omonia Nicosia",
+   "competition": "Europa League",
+   "home": "NEC",
+   "kickoff_utc": "2026-11-05T17:45:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|NEC|Stade Rennais": {
+   "away": "Stade Rennais",
+   "competition": "Europa League",
+   "home": "NEC",
+   "kickoff_utc": "2026-11-26T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|NK Celje|NEC": {
+   "away": "NEC",
+   "competition": "Europa League",
+   "home": "NK Celje",
+   "kickoff_utc": "2027-01-28T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Sparta Praag|AZ": {
+   "away": "AZ",
+   "competition": "Europa League",
+   "home": "Sparta Praag",
+   "kickoff_utc": "2026-11-26T20:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  },
+  "Europa League|Sunderland|AZ": {
+   "away": "AZ",
+   "competition": "Europa League",
+   "home": "Sunderland",
+   "kickoff_utc": "2026-09-16T19:00:00Z",
+   "round": "Competitiefase",
+   "source": "seed"
+  }
+ }
+}

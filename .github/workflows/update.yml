@@ -1,0 +1,69 @@
+name: Kalender bijwerken
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # elke 6 uur
+  workflow_dispatch:          # handmatig starten via Actions-tab
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: kalender
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Wedstrijden ophalen en kalender bouwen
+        id: build
+        continue-on-error: true
+        run: python3 scripts/update.py
+
+      - name: Gegevens opslaan
+        if: always()
+        run: |
+          git config user.name "kalender-bot"
+          git config user.email "kalender-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Kalender bijgewerkt"
+          git push || echo "push mislukt, volgende run probeert opnieuw"
+
+      - name: Index-pagina
+        if: always()
+        run: |
+          cp README.md docs/index.md 2>/dev/null || true
+          touch docs/.nojekyll
+
+      - uses: actions/configure-pages@v5
+        if: always()
+      - uses: actions/upload-pages-artifact@v3
+        if: always()
+        with:
+          path: docs
+      - name: Publiceren
+        id: deploy
+        if: always()
+        uses: actions/deploy-pages@v4
+
+      - name: Melden als geen enkele bron werkte
+        if: steps.build.outcome != 'success'
+        run: |
+          echo "::error::Geen live bron bereikbaar of fout in script. De vorige kalender is gepubliceerd. Zie data/status.json."
+          cat data/status.json || true
+          exit 1

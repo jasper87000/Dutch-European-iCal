@@ -1,4 +1,5 @@
 name: Kalender bijwerken
+# Publiceert docs/ via GitHub Pages
 
 on:
   schedule:

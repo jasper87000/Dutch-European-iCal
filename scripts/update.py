@@ -149,12 +149,26 @@ def from_espn(today):
     start = datetime(today.year if today.month >= 7 else today.year - 1, 7, 1)
     end = datetime(start.year + 1, 6, 15)
     for comp, (_, slug, _) in COMPS.items():
+        base = f"https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
+
+        def events_for(a, b):
+            try:
+                return get_json(f"{base}?dates={a:%Y%m%d}-{b:%Y%m%d}&limit=200").get("events", [])
+            except urllib.error.HTTPError as e:
+                if e.code != 400:
+                    raise
+            evs = []  # range not accepted: ask day by day (UEFA plays Tue-Thu)
+            day = a
+            while day <= b:
+                if day.weekday() in (1, 2, 3):
+                    evs += get_json(f"{base}?dates={day:%Y%m%d}").get("events", [])
+                day += timedelta(days=1)
+            return evs
+
         d = start
         while d < end:
-            span_end = min(d + timedelta(days=30), end)
-            url = (f"https://site.api.espn.com/apis/site/v2/sports/soccer/{slug}/scoreboard"
-                   f"?dates={d:%Y%m%d}-{span_end:%Y%m%d}&limit=500")
-            for ev in get_json(url).get("events", []):
+            span_end = min(d + timedelta(days=6), end)
+            for ev in events_for(d, span_end):
                 comp_ = (ev.get("competitions") or [{}])[0]
                 teams = {c.get("homeAway"): c for c in comp_.get("competitors", [])}
                 if "home" not in teams or "away" not in teams:

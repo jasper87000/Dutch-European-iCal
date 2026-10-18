@@ -1,0 +1,9 @@
+{
+ "run_utc": "2026-10-18T23:14:41Z",
+ "sources": {
+  "uefa": "ok: 60 matches, 60 changed/added",
+  "espn": "error: HTTPError: HTTP Error 400: Bad Request"
+ },
+ "matches_in_feed": 60,
+ "live_sources_ok": 1
+}

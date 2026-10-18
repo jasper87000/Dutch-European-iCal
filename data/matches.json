@@ -4,369 +4,765 @@
    "away": "Feyenoord",
    "competition": "Champions League",
    "home": "Barcelona",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-09-09T16:45:00Z",
-   "round": "Competitiefase",
+   "round": "League Phase",
    "score": [
     5,
     1
    ],
-   "source": "seed"
+   "source": "uefa",
+   "uefa_id": "2049561",
+   "venue": "Camp Nou, Barcelona"
+  },
+  "Champions League|Bodø/Glimt|NEC|2026-08-25": {
+   "away": "NEC",
+   "competition": "Champions League",
+   "home": "Bodø/Glimt",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-25T19:00:00Z",
+   "round": "Play-Offs",
+   "score": [
+    3,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2049221",
+   "venue": "Aspmyra, Bodø"
   },
   "Champions League|Feyenoord|Como": {
    "away": "Como",
    "competition": "Champions League",
    "home": "Feyenoord",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-14T16:45:00Z",
-   "round": "Competitiefase",
+   "round": "League Phase",
    "score": [
     3,
     2
    ],
-   "source": "seed"
+   "source": "uefa",
+   "uefa_id": "2049584",
+   "venue": "Stadion Feijenoord 'De Kuip', Rotterdam"
   },
   "Champions League|Feyenoord|Inter": {
    "away": "Inter",
    "competition": "Champions League",
    "home": "Feyenoord",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-03T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049610",
+   "venue": "Stadion Feijenoord 'De Kuip', Rotterdam"
   },
   "Champions League|Feyenoord|Porto": {
    "away": "Porto",
    "competition": "Champions League",
    "home": "Feyenoord",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-24T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049628",
+   "venue": "Stadion Feijenoord 'De Kuip', Rotterdam"
   },
   "Champions League|Feyenoord|RB Leipzig": {
-   "away": "RB Leipzig",
+   "away": "Leipzig",
    "competition": "Champions League",
    "home": "Feyenoord",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-27T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049690",
+   "venue": "Stadion Feijenoord 'De Kuip', Rotterdam"
   },
   "Champions League|Galatasaray|Feyenoord": {
    "away": "Feyenoord",
    "competition": "Champions League",
    "home": "Galatasaray",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-19T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049667",
+   "venue": "Ali Sami Yen Spor Kompleksi, Istanbul"
+  },
+  "Champions League|NEC|Bodø/Glimt|2026-08-19": {
+   "away": "Bodø/Glimt",
+   "competition": "Champions League",
+   "home": "NEC",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-19T19:00:00Z",
+   "round": "Play-Offs",
+   "score": [
+    1,
+    3
+   ],
+   "source": "uefa",
+   "uefa_id": "2049214",
+   "venue": "Goffertstadion, Nijmegen"
+  },
+  "Champions League|NEC|Olympiacos|2026-08-11": {
+   "away": "Olympiacos",
+   "competition": "Champions League",
+   "home": "NEC",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-11T17:30:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    2,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2049115",
+   "venue": "Goffertstadion, Nijmegen"
+  },
+  "Champions League|Olympiacos|NEC|2026-08-04": {
+   "away": "NEC",
+   "competition": "Champions League",
+   "home": "Olympiacos",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-04T18:00:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    0,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2049105",
+   "venue": "Stadio Georgios Karaiskakis, Piraeus"
   },
   "Champions League|PSV|Atlético Madrid": {
-   "away": "Atlético Madrid",
+   "away": "Atleti",
    "competition": "Champions League",
    "home": "PSV",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-09T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049656",
+   "venue": "PSV Stadion, Eindhoven"
   },
   "Champions League|PSV|Club Brugge": {
    "away": "Club Brugge",
    "competition": "Champions League",
    "home": "PSV",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-04T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049618",
+   "venue": "PSV Stadion, Eindhoven"
   },
   "Champions League|PSV|Shakhtar Donetsk": {
-   "away": "Shakhtar Donetsk",
+   "away": "Shakhtar",
    "competition": "Champions League",
    "home": "PSV",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-09-10T16:45:00Z",
-   "round": "Competitiefase",
+   "round": "League Phase",
    "score": [
     1,
     1
    ],
-   "source": "seed"
+   "source": "uefa",
+   "uefa_id": "2049567",
+   "venue": "PSV Stadion, Eindhoven"
   },
   "Champions League|PSV|Stuttgart": {
    "away": "Stuttgart",
    "competition": "Champions League",
    "home": "PSV",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-27T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049689",
+   "venue": "PSV Stadion, Eindhoven"
   },
   "Champions League|Porto|PSV": {
    "away": "PSV",
    "competition": "Champions League",
    "home": "Porto",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-20T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049593",
+   "venue": "Estádio do Dragão, Porto"
   },
   "Champions League|RB Leipzig|PSV": {
    "away": "PSV",
    "competition": "Champions League",
-   "home": "RB Leipzig",
+   "home": "Leipzig",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-13T19:00:00Z",
-   "round": "Competitiefase",
+   "round": "League Phase",
    "score": [
     1,
     0
    ],
-   "source": "seed"
+   "source": "uefa",
+   "uefa_id": "2049574",
+   "venue": "RB Arena, Leipzig"
   },
   "Champions League|Real Betis|Feyenoord": {
    "away": "Feyenoord",
    "competition": "Champions League",
    "home": "Real Betis",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-21T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049604",
+   "venue": " La Cartuja de Sevilla, Seville"
   },
   "Champions League|Real Madrid|PSV": {
    "away": "PSV",
    "competition": "Champions League",
    "home": "Real Madrid",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-24T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049625",
+   "venue": "Estadio Santiago Bernabéu, Madrid"
   },
   "Champions League|Viking|Feyenoord": {
    "away": "Feyenoord",
    "competition": "Champions League",
    "home": "Viking",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-08T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049651",
+   "venue": "Viking Stadion, Stavanger"
   },
   "Champions League|Viking|PSV": {
    "away": "PSV",
    "competition": "Champions League",
    "home": "Viking",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-20T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2049677",
+   "venue": "Viking Stadion, Stavanger"
   },
   "Conference League|Aarhus|FC Twente": {
    "away": "FC Twente",
    "competition": "Conference League",
    "home": "Aarhus",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-10T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050394",
+   "venue": "Randers Stadion, Randers"
   },
   "Conference League|Ajax|Atalanta": {
    "away": "Atalanta",
    "competition": "Conference League",
    "home": "Ajax",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-22T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050328",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
   },
   "Conference League|Ajax|FC Thun": {
-   "away": "FC Thun",
+   "away": "Thun",
    "competition": "Conference League",
    "home": "Ajax",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-26T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050364",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
   },
   "Conference League|Ajax|Getafe": {
    "away": "Getafe",
    "competition": "Conference League",
    "home": "Ajax",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-17T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050401",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
+  },
+  "Conference League|Ajax|Shelbourne|2026-08-06": {
+   "away": "Shelbourne",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-06T18:00:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    3,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2049153",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
+  },
+  "Conference League|Ajax|Sion|2026-08-27": {
+   "away": "Sion",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-27T18:00:00Z",
+   "round": "Play-Offs",
+   "score": [
+    5,
+    3
+   ],
+   "source": "uefa",
+   "uefa_id": "2049289",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
+  },
+  "Conference League|Ajax|Vojvodina|2026-07-30": {
+   "away": "Vojvodina",
+   "competition": "Conference League",
+   "home": "Ajax",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-07-30T18:00:00Z",
+   "round": "Second qualifying round",
+   "score": [
+    4,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2048798",
+   "venue": "Johan Cruijff ArenA, Amsterdam"
+  },
+  "Conference League|DAC 1904|FC Twente|2026-08-13": {
+   "away": "FC Twente",
+   "competition": "Conference League",
+   "home": "DAC 1904",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-13T17:00:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    3,
+    3
+   ],
+   "source": "uefa",
+   "uefa_id": "2049204",
+   "venue": "DAC Arena, Dunajska Streda"
   },
   "Conference League|FC Midtjylland|Ajax": {
    "away": "Ajax",
    "competition": "Conference League",
-   "home": "FC Midtjylland",
+   "home": "Midtjylland",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-05T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050348",
+   "venue": "Arena Herning, Herning"
   },
-  "Conference League|FC Twente|FC Thun": {
-   "away": "FC Thun",
+  "Conference League|FC Twente|DAC 1904|2026-08-06": {
+   "away": "DAC 1904",
    "competition": "Conference League",
    "home": "FC Twente",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-06T18:00:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    6,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2049174",
+   "venue": "FC Twente Stadion, Enschede"
+  },
+  "Conference League|FC Twente|FC Thun": {
+   "away": "Thun",
+   "competition": "Conference League",
+   "home": "FC Twente",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-15T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    1,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2050317",
+   "venue": "FC Twente Stadion, Enschede"
   },
   "Conference League|FC Twente|Kairat Almaty": {
    "away": "Kairat Almaty",
    "competition": "Conference League",
    "home": "FC Twente",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-17T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050409",
+   "venue": "FC Twente Stadion, Enschede"
   },
   "Conference League|FC Twente|Pafos": {
    "away": "Pafos",
    "competition": "Conference League",
    "home": "FC Twente",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-05T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050354",
+   "venue": "FC Twente Stadion, Enschede"
+  },
+  "Conference League|FC Twente|Qarabağ|2026-08-20": {
+   "away": "Qarabağ",
+   "competition": "Conference League",
+   "home": "FC Twente",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-20T18:00:00Z",
+   "round": "Play-Offs",
+   "score": [
+    0,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2049267",
+   "venue": "FC Twente Stadion, Enschede"
   },
   "Conference League|Hajduk Split|Ajax": {
    "away": "Ajax",
    "competition": "Conference League",
    "home": "Hajduk Split",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-15T16:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    2,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2050323",
+   "venue": "Stadion Poljud, Split"
   },
   "Conference League|Lincoln Red Imps|FC Twente": {
    "away": "FC Twente",
    "competition": "Conference League",
-   "home": "Lincoln Red Imps",
+   "home": "L. Red Imps",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-22T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050334",
+   "venue": "Europa Point Stadium, Gibraltar"
+  },
+  "Conference League|Qarabağ|FC Twente|2026-08-27": {
+   "away": "FC Twente",
+   "competition": "Conference League",
+   "home": "Qarabağ",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-27T16:00:00Z",
+   "round": "Play-Offs",
+   "score": [
+    1,
+    4
+   ],
+   "source": "uefa",
+   "uefa_id": "2049291",
+   "venue": "Tofiq Bahramov Republican Stadium, Baku"
   },
   "Conference League|SC Freiburg|FC Twente": {
    "away": "FC Twente",
    "competition": "Conference League",
-   "home": "SC Freiburg",
+   "home": "Freiburg",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-26T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050365",
+   "venue": "Stadion am Wolfswinkel, Freiburg"
+  },
+  "Conference League|Shelbourne|Ajax|2026-08-13": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "Shelbourne",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-13T18:45:00Z",
+   "round": "Third qualifying round",
+   "score": [
+    2,
+    2
+   ],
+   "source": "uefa",
+   "uefa_id": "2049183",
+   "venue": "Tolka Park, Dublin"
   },
   "Conference League|Sint-Truiden|Ajax": {
    "away": "Ajax",
    "competition": "Conference League",
-   "home": "Sint-Truiden",
+   "home": "Sint-Truidense",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-10T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050387",
+   "venue": "Stayen, Sint-Truiden"
+  },
+  "Conference League|Sion|Ajax|2026-08-20": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "Sion",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-08-20T18:15:00Z",
+   "round": "Play-Offs",
+   "score": [
+    2,
+    4
+   ],
+   "source": "uefa",
+   "uefa_id": "2049265",
+   "venue": "Stade de Tourbillon, Sion"
+  },
+  "Conference League|Vojvodina|Ajax|2026-07-23": {
+   "away": "Ajax",
+   "competition": "Conference League",
+   "home": "Vojvodina",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-07-23T18:00:00Z",
+   "round": "Second qualifying round",
+   "score": [
+    1,
+    4
+   ],
+   "source": "uefa",
+   "uefa_id": "2048847",
+   "venue": "Stadion Karadjordje, Novi Sad"
   },
   "Europa League|AZ|Dinamo Zagreb": {
-   "away": "Dinamo Zagreb",
+   "away": "GNK Dinamo",
    "competition": "Europa League",
    "home": "AZ",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-21T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050166",
+   "venue": "AZ Stadion, Alkmaar"
   },
   "Europa League|AZ|Hapoel Beer Sheva": {
-   "away": "Hapoel Beer Sheva",
+   "away": "H. Beer-Sheva",
    "competition": "Europa League",
    "home": "AZ",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-15T16:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    2,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2050077",
+   "venue": "AZ Stadion, Alkmaar"
   },
   "Europa League|AZ|Juventus": {
    "away": "Juventus",
    "competition": "Europa League",
    "home": "AZ",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-05T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050114",
+   "venue": "AZ Stadion, Alkmaar"
   },
   "Europa League|AZ|Sturm Graz": {
    "away": "Sturm Graz",
    "competition": "Europa League",
    "home": "AZ",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-10T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050151",
+   "venue": "AZ Stadion, Alkmaar"
   },
   "Europa League|Ararat-Armenia|AZ": {
    "away": "AZ",
    "competition": "Europa League",
    "home": "Ararat-Armenia",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-22T16:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050110",
+   "venue": "Republican Stadium after Vazgen Sargsyan, Yerevan"
   },
   "Europa League|Ararat-Armenia|NEC": {
    "away": "NEC",
    "competition": "Europa League",
    "home": "Ararat-Armenia",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-12-10T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050164",
+   "venue": "Republican Stadium after Vazgen Sargsyan, Yerevan"
   },
   "Europa League|Benfica|AZ": {
    "away": "AZ",
    "competition": "Europa League",
    "home": "Benfica",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-28T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050183",
+   "venue": "Estádio do SL Benfica, Lisbon"
   },
   "Europa League|Dinamo Zagreb|NEC": {
    "away": "NEC",
    "competition": "Europa League",
-   "home": "Dinamo Zagreb",
+   "home": "GNK Dinamo",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-22T16:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050098",
+   "venue": "Stadion Maksimir, Zagreb"
+  },
+  "Europa League|FC Twente|Ferencváros|2026-07-23": {
+   "away": "Ferencváros",
+   "competition": "Europa League",
+   "home": "FC Twente",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-07-23T18:00:00Z",
+   "round": "Second qualifying round",
+   "score": [
+    1,
+    2
+   ],
+   "source": "uefa",
+   "uefa_id": "2048744",
+   "venue": "FC Twente Stadion, Enschede"
+  },
+  "Europa League|Ferencváros|FC Twente|2026-07-30": {
+   "away": "FC Twente",
+   "competition": "Europa League",
+   "home": "Ferencváros",
+   "kickoff_confirmed": true,
+   "kickoff_utc": "2026-07-30T18:30:00Z",
+   "round": "Second qualifying round",
+   "score": [
+    2,
+    2
+   ],
+   "source": "uefa",
+   "uefa_id": "2048752",
+   "venue": "Ferencváros Stadion, Budapest"
   },
   "Europa League|Juventus|NEC": {
    "away": "NEC",
    "competition": "Europa League",
    "home": "Juventus",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-09-17T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    5,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2050066",
+   "venue": "Juventus Stadium, Turin"
   },
   "Europa League|NEC|Benfica": {
    "away": "Benfica",
    "competition": "Europa League",
    "home": "NEC",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-21T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050179",
+   "venue": "Goffertstadion, Nijmegen"
   },
   "Europa League|NEC|Levski Sofia": {
    "away": "Levski Sofia",
    "competition": "Europa League",
    "home": "NEC",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-10-15T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    1,
+    1
+   ],
+   "source": "uefa",
+   "uefa_id": "2050092",
+   "venue": "Goffertstadion, Nijmegen"
   },
   "Europa League|NEC|Omonia Nicosia": {
-   "away": "Omonia Nicosia",
+   "away": "Omonia",
    "competition": "Europa League",
    "home": "NEC",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-05T17:45:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050126",
+   "venue": "Goffertstadion, Nijmegen"
   },
   "Europa League|NEC|Stade Rennais": {
-   "away": "Stade Rennais",
+   "away": "Rennes",
    "competition": "Europa League",
    "home": "NEC",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-26T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050145",
+   "venue": "Goffertstadion, Nijmegen"
   },
   "Europa League|NK Celje|NEC": {
    "away": "NEC",
    "competition": "Europa League",
-   "home": "NK Celje",
+   "home": "Celje",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2027-01-28T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050195",
+   "venue": "Stadion Celje, Celje"
   },
   "Europa League|Sparta Praag|AZ": {
    "away": "AZ",
    "competition": "Europa League",
-   "home": "Sparta Praag",
+   "home": "Sparta Praha",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-11-26T20:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "source": "uefa",
+   "uefa_id": "2050138",
+   "venue": "Stadion Letná, Prague"
   },
   "Europa League|Sunderland|AZ": {
    "away": "AZ",
    "competition": "Europa League",
    "home": "Sunderland",
+   "kickoff_confirmed": true,
    "kickoff_utc": "2026-09-16T19:00:00Z",
-   "round": "Competitiefase",
-   "source": "seed"
+   "round": "League Phase",
+   "score": [
+    1,
+    0
+   ],
+   "source": "uefa",
+   "uefa_id": "2050062",
+   "venue": "Stadium of Light, Sunderland"
   }
  }
 }

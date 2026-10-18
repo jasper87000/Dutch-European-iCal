@@ -10,542 +10,681 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:3815f38e-e34c-5280-81ca-42511552fc42@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260723T180000Z
 DTEND:20260723T200000Z
 SUMMARY:⚽ Vojvodina 1-4 Ajax (ECL)
-DESCRIPTION:UEFA Conference League – Second qualifying round
+DESCRIPTION:UEFA Conference League – 2e voorronde\, heenwedstrijd\n🕘 A
+ ftrap 20:00 (NL-tijd)\n🏟️ Stadion Karadjordje\, Novi Sad\n⚽ Uitslag
+ : Vojvodina 1-4 Ajax
 LOCATION:Stadion Karadjordje\, Novi Sad
 END:VEVENT
 BEGIN:VEVENT
 UID:a47c2b21-a751-5fb5-a62e-3b80cb21c0fc@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260723T180000Z
 DTEND:20260723T200000Z
 SUMMARY:⚽ FC Twente 1-2 Ferencváros (EL)
-DESCRIPTION:UEFA Europa League – Second qualifying round
+DESCRIPTION:UEFA Europa League – 2e voorronde\, heenwedstrijd\n🕘 Aftra
+ p 20:00 (NL-tijd)\n🏟️ FC Twente Stadion\, Enschede\n⚽ Uitslag: FC T
+ wente 1-2 Ferencváros
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:66fe6968-78b2-50e4-8091-610fe61e2732@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260730T180000Z
 DTEND:20260730T200000Z
 SUMMARY:⚽ Ajax 4-1 Vojvodina (ECL)
-DESCRIPTION:UEFA Conference League – Second qualifying round
+DESCRIPTION:UEFA Conference League – 2e voorronde\, return\n🕘 Aftrap 2
+ 0:00 (NL-tijd)\n🏟️ Johan Cruijff ArenA\, Amsterdam\n⚽ Uitslag: Ajax
+  4-1 Vojvodina
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:33781a5e-2ee2-54d3-8d9e-ad8e6132a74e@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260730T183000Z
 DTEND:20260730T203000Z
 SUMMARY:⚽ Ferencváros 2-2 FC Twente (EL)
-DESCRIPTION:UEFA Europa League – Second qualifying round
+DESCRIPTION:UEFA Europa League – 2e voorronde\, return\n🕘 Aftrap 20:30
+  (NL-tijd)\n🏟️ Ferencváros Stadion\, Budapest\n⚽ Uitslag: Ferencv
+ áros 2-2 FC Twente
 LOCATION:Ferencváros Stadion\, Budapest
 END:VEVENT
 BEGIN:VEVENT
 UID:7fcf6f2b-6692-5667-8661-02622969f34c@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260804T180000Z
 DTEND:20260804T200000Z
 SUMMARY:⚽ Olympiacos 0-0 NEC (CL)
-DESCRIPTION:UEFA Champions League – Third qualifying round
+DESCRIPTION:UEFA Champions League – 3e voorronde\, heenwedstrijd\n🕘 Af
+ trap 20:00 (NL-tijd)\n🏟️ Stadio Georgios Karaiskakis\, Piraeus\n⚽ U
+ itslag: Olympiacos 0-0 NEC
 LOCATION:Stadio Georgios Karaiskakis\, Piraeus
 END:VEVENT
 BEGIN:VEVENT
 UID:413c4752-efd0-5bef-b359-05f09efa83ba@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260806T180000Z
 DTEND:20260806T200000Z
 SUMMARY:⚽ Ajax 3-1 Shelbourne (ECL)
-DESCRIPTION:UEFA Conference League – Third qualifying round
+DESCRIPTION:UEFA Conference League – 3e voorronde\, heenwedstrijd\n🕘 A
+ ftrap 20:00 (NL-tijd)\n🏟️ Johan Cruijff ArenA\, Amsterdam\n⚽ Uitsla
+ g: Ajax 3-1 Shelbourne
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:de372beb-6f11-5e92-9bc3-b5e0791da18f@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260806T180000Z
 DTEND:20260806T200000Z
 SUMMARY:⚽ FC Twente 6-0 DAC 1904 (ECL)
-DESCRIPTION:UEFA Conference League – Third qualifying round
+DESCRIPTION:UEFA Conference League – 3e voorronde\, heenwedstrijd\n🕘 A
+ ftrap 20:00 (NL-tijd)\n🏟️ FC Twente Stadion\, Enschede\n⚽ Uitslag: 
+ FC Twente 6-0 DAC 1904
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:5d0a71e7-5758-5455-bc7f-71ea01248265@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260811T173000Z
 DTEND:20260811T193000Z
 SUMMARY:⚽ NEC 2-1 Olympiacos (CL)
-DESCRIPTION:UEFA Champions League – Third qualifying round
+DESCRIPTION:UEFA Champions League – 3e voorronde\, return\n🕘 Aftrap 19
+ :30 (NL-tijd)\n🏟️ Goffertstadion\, Nijmegen\n⚽ Uitslag: NEC 2-1 Oly
+ mpiacos
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:1dc3606c-1651-5a9b-a0f3-9bf5cee264c8@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260813T170000Z
 DTEND:20260813T190000Z
 SUMMARY:⚽ DAC 1904 3-3 FC Twente (ECL)
-DESCRIPTION:UEFA Conference League – Third qualifying round
+DESCRIPTION:UEFA Conference League – 3e voorronde\, return\n🕘 Aftrap 1
+ 9:00 (NL-tijd)\n🏟️ DAC Arena\, Dunajska Streda\n⚽ Uitslag: DAC 1904
+  3-3 FC Twente
 LOCATION:DAC Arena\, Dunajska Streda
 END:VEVENT
 BEGIN:VEVENT
 UID:4ce5da96-fe62-5bb9-aae3-f8e200f08a51@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260813T184500Z
 DTEND:20260813T204500Z
 SUMMARY:⚽ Shelbourne 2-2 Ajax (ECL)
-DESCRIPTION:UEFA Conference League – Third qualifying round
+DESCRIPTION:UEFA Conference League – 3e voorronde\, return\n🕘 Aftrap 2
+ 0:45 (NL-tijd)\n🏟️ Tolka Park\, Dublin\n⚽ Uitslag: Shelbourne 2-2 A
+ jax
 LOCATION:Tolka Park\, Dublin
 END:VEVENT
 BEGIN:VEVENT
 UID:a60bc4a8-0b61-5a88-8fe6-df7e064d72af@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260819T190000Z
 DTEND:20260819T210000Z
 SUMMARY:⚽ NEC 1-3 Bodø/Glimt (CL)
-DESCRIPTION:UEFA Champions League – Play-Offs
+DESCRIPTION:UEFA Champions League – Play-offs\, heenwedstrijd\n🕘 Aftra
+ p 21:00 (NL-tijd)\n🏟️ Goffertstadion\, Nijmegen\n⚽ Uitslag: NEC 1-3
+  Bodø/Glimt
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:26d75a21-85a4-537d-afd3-6c43855a31bb@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260820T180000Z
 DTEND:20260820T200000Z
 SUMMARY:⚽ FC Twente 0-1 Qarabağ (ECL)
-DESCRIPTION:UEFA Conference League – Play-Offs
+DESCRIPTION:UEFA Conference League – Play-offs\, heenwedstrijd\n🕘 Aftr
+ ap 20:00 (NL-tijd)\n🏟️ FC Twente Stadion\, Enschede\n⚽ Uitslag: FC 
+ Twente 0-1 Qarabağ
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:bd77dcff-3669-5349-9959-a529b4dfdf99@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260820T181500Z
 DTEND:20260820T201500Z
 SUMMARY:⚽ Sion 2-4 Ajax (ECL)
-DESCRIPTION:UEFA Conference League – Play-Offs
+DESCRIPTION:UEFA Conference League – Play-offs\, heenwedstrijd\n🕘 Aftr
+ ap 20:15 (NL-tijd)\n🏟️ Stade de Tourbillon\, Sion\n⚽ Uitslag: Sion 
+ 2-4 Ajax
 LOCATION:Stade de Tourbillon\, Sion
 END:VEVENT
 BEGIN:VEVENT
 UID:49fe6e7f-09e9-5128-9dd0-d26cba37ffa8@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260825T190000Z
 DTEND:20260825T210000Z
 SUMMARY:⚽ Bodø/Glimt 3-0 NEC (CL)
-DESCRIPTION:UEFA Champions League – Play-Offs
+DESCRIPTION:UEFA Champions League – Play-offs\, return\n🕘 Aftrap 21:00
+  (NL-tijd)\n🏟️ Aspmyra\, Bodø\n⚽ Uitslag: Bodø/Glimt 3-0 NEC
 LOCATION:Aspmyra\, Bodø
 END:VEVENT
 BEGIN:VEVENT
 UID:aa8574f6-9172-563c-8e10-3f9b4f8ae9d2@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260827T160000Z
 DTEND:20260827T180000Z
 SUMMARY:⚽ Qarabağ 1-4 FC Twente (ECL)
-DESCRIPTION:UEFA Conference League – Play-Offs
+DESCRIPTION:UEFA Conference League – Play-offs\, return\n🕘 Aftrap 18:0
+ 0 (NL-tijd)\n🏟️ Tofiq Bahramov Republican Stadium\, Baku\n⚽ Uitslag
+ : Qarabağ 1-4 FC Twente
 LOCATION:Tofiq Bahramov Republican Stadium\, Baku
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ef94dc-be32-50b5-bac8-4218a3d35fe5@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260827T180000Z
 DTEND:20260827T200000Z
 SUMMARY:⚽ Ajax 5-3 Sion (ECL)
-DESCRIPTION:UEFA Conference League – Play-Offs
+DESCRIPTION:UEFA Conference League – Play-offs\, return\n🕘 Aftrap 20:0
+ 0 (NL-tijd)\n🏟️ Johan Cruijff ArenA\, Amsterdam\n⚽ Uitslag: Ajax 5-
+ 3 Sion
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:2984b003-f2d6-5f53-bfec-bb52fa53e0da@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260909T164500Z
 DTEND:20260909T184500Z
 SUMMARY:⚽ Barcelona 5-1 Feyenoord (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 1\n🕘 A
+ ftrap 18:45 (NL-tijd)\n🏟️ Camp Nou\, Barcelona\n⚽ Uitslag: Barcelon
+ a 5-1 Feyenoord
 LOCATION:Camp Nou\, Barcelona
 END:VEVENT
 BEGIN:VEVENT
 UID:b48c829e-f81c-5a80-bee1-17ec46d69af8@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260910T164500Z
 DTEND:20260910T184500Z
 SUMMARY:⚽ PSV 1-1 Shakhtar (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 1\n🕘 A
+ ftrap 18:45 (NL-tijd)\n🏟️ PSV Stadion\, Eindhoven\n⚽ Uitslag: PSV 1
+ -1 Shakhtar
 LOCATION:PSV Stadion\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 UID:20f425f0-7791-5763-9f37-267bc20efdd0@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260916T190000Z
 DTEND:20260916T210000Z
 SUMMARY:⚽ Sunderland 1-0 AZ (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 1\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n🏟️ Stadium of Light\, Sunderland\n⚽ Uitslag: Su
+ nderland 1-0 AZ
 LOCATION:Stadium of Light\, Sunderland
 END:VEVENT
 BEGIN:VEVENT
 UID:b1b8f37b-df64-5b22-b069-623e56988e18@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20260917T190000Z
 DTEND:20260917T210000Z
 SUMMARY:⚽ Juventus 5-0 NEC (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 1\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n🏟️ Juventus Stadium\, Turin\n⚽ Uitslag: Juventu
+ s 5-0 NEC
 LOCATION:Juventus Stadium\, Turin
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1bd00f-2b07-5901-95cc-a4be28bd5458@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:⚽ Leipzig 1-0 PSV (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 2\n🕘 A
+ ftrap 21:00 (NL-tijd)\n🏟️ RB Arena\, Leipzig\n⚽ Uitslag: Leipzig 1-
+ 0 PSV
 LOCATION:RB Arena\, Leipzig
 END:VEVENT
 BEGIN:VEVENT
 UID:b9a0ed21-08db-562a-a3ee-295a83899182@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
 SUMMARY:⚽ Feyenoord 3-2 Como (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 2\n🕘 A
+ ftrap 18:45 (NL-tijd)\n🏟️ Stadion Feijenoord 'De Kuip'\, Rotterdam\n
+ ⚽ Uitslag: Feyenoord 3-2 Como
 LOCATION:Stadion Feijenoord 'De Kuip'\, Rotterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:8075cdf0-1060-5678-bd34-5029df1869cf@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261015T164500Z
 DTEND:20261015T184500Z
 SUMMARY:⚽ Hajduk Split 2-1 Ajax (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 1\n🕘 
+ Aftrap 18:45 (NL-tijd)\n🏟️ Stadion Poljud\, Split\n⚽ Uitslag: Hajdu
+ k Split 2-1 Ajax
 LOCATION:Stadion Poljud\, Split
 END:VEVENT
 BEGIN:VEVENT
 UID:30075426-194f-56d8-9d2e-a4e61e3e78d1@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261015T164500Z
 DTEND:20261015T184500Z
 SUMMARY:⚽ AZ 2-1 H. Beer-Sheva (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 2\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n🏟️ AZ Stadion\, Alkmaar\n⚽ Uitslag: AZ 2-1 H. B
+ eer-Sheva
 LOCATION:AZ Stadion\, Alkmaar
 END:VEVENT
 BEGIN:VEVENT
 UID:be3baf79-0916-5142-ab6a-72cdae9a662b@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261015T190000Z
 DTEND:20261015T210000Z
 SUMMARY:⚽ FC Twente 1-0 Thun (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 1\n🕘 
+ Aftrap 21:00 (NL-tijd)\n🏟️ FC Twente Stadion\, Enschede\n⚽ Uitslag:
+  FC Twente 1-0 Thun
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:2191902f-38cc-5fea-bceb-80156d417027@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261015T190000Z
 DTEND:20261015T210000Z
 SUMMARY:⚽ NEC 1-1 Levski Sofia (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 2\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n🏟️ Goffertstadion\, Nijmegen\n⚽ Uitslag: NEC 1-
+ 1 Levski Sofia
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:9a02a322-f2b1-59f5-abae-3b00fd6400f3@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261020T190000Z
 DTEND:20261020T210000Z
 SUMMARY:⚽ Porto - PSV (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 3\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️ Est
+ ádio do Dragão\, Porto\n📊 PSV: 26e in de competitiefase (1 pt uit 2 d
+ uels)
 LOCATION:Estádio do Dragão\, Porto
 END:VEVENT
 BEGIN:VEVENT
 UID:c78b184f-a4ff-595c-abbb-7c00640d2754@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
 SUMMARY:⚽ Real Betis - Feyenoord (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 3\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️  La 
+ Cartuja de Sevilla\, Seville\n📊 Feyenoord: 23e in de competitiefase (3 
+ pt uit 2 duels)
 LOCATION: La Cartuja de Sevilla\, Seville
 END:VEVENT
 BEGIN:VEVENT
 UID:be837de7-b5bb-551c-9381-dfe81a339801@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261022T164500Z
 DTEND:20261022T184500Z
 SUMMARY:⚽ Ararat-Armenia - AZ (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 3\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport Free / Ziggo Sport 2\n🏟️ Republi
+ can Stadium after Vazgen Sargsyan\, Yerevan\n📊 AZ: 20e in de competitie
+ fase (3 pt uit 2 duels)
 LOCATION:Republican Stadium after Vazgen Sargsyan\, Yerevan
 END:VEVENT
 BEGIN:VEVENT
 UID:d5b57711-af25-5441-8340-bfd6f1448e03@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261022T164500Z
 DTEND:20261022T184500Z
 SUMMARY:⚽ GNK Dinamo - NEC (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 3\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport Free / Ziggo Sport 3\n🏟️ Stadion
+  Maksimir\, Zagreb\n📊 NEC: 27e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Stadion Maksimir\, Zagreb
 END:VEVENT
 BEGIN:VEVENT
 UID:b8e8b7eb-5d50-5460-8dba-004bb60ec446@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261022T190000Z
 DTEND:20261022T210000Z
 SUMMARY:⚽ Ajax - Atalanta (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 2\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️ Joh
+ an Cruijff ArenA\, Amsterdam\n📊 Ajax: 25e in de competitiefase (0 pt ui
+ t 1 duels)
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:8b88e355-497b-50f0-abbe-13df1f7f0bea@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261022T190000Z
 DTEND:20261022T210000Z
 SUMMARY:⚽ L. Red Imps - FC Twente (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 2\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport Free / Ziggo Sport 2\n🏟️ Eur
+ opa Point Stadium\, Gibraltar\n📊 FC Twente: 13e in de competitiefase (3
+  pt uit 1 duels)
 LOCATION:Europa Point Stadium\, Gibraltar
 END:VEVENT
 BEGIN:VEVENT
 UID:b799a9a8-b9ec-5281-9958-1510fd1089a8@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
 SUMMARY:⚽ Feyenoord - Inter (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 4\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️ Stad
+ ion Feijenoord 'De Kuip'\, Rotterdam\n📊 Feyenoord: 23e in de competitie
+ fase (3 pt uit 2 duels)
 LOCATION:Stadion Feijenoord 'De Kuip'\, Rotterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:88c45d1b-1e81-59b9-b4d1-a75ffb5e4119@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261104T200000Z
 DTEND:20261104T220000Z
 SUMMARY:⚽ PSV - Club Brugge (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 4\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️ PSV 
+ Stadion\, Eindhoven\n📊 PSV: 26e in de competitiefase (1 pt uit 2 duels)
 LOCATION:PSV Stadion\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbd0451-08c7-5c3b-b4b0-ce4b82b1bd79@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261105T174500Z
 DTEND:20261105T194500Z
 SUMMARY:⚽ Midtjylland - Ajax (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 3\n🕘 
+ Aftrap 18:45 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport Free\n🏟️ Are
+ na Herning\, Herning\n📊 Ajax: 25e in de competitiefase (0 pt uit 1 duel
+ s)
 LOCATION:Arena Herning\, Herning
 END:VEVENT
 BEGIN:VEVENT
 UID:52090470-bfed-5e8d-86c3-0b60ac95ddfa@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261105T174500Z
 DTEND:20261105T194500Z
 SUMMARY:⚽ NEC - Omonia (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 4\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport Free / Ziggo Sport 2\n🏟️ Goffert
+ stadion\, Nijmegen\n📊 NEC: 27e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:b8f76ce8-6bc8-5058-a7c9-77ea00bd252f@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:⚽ FC Twente - Pafos (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 3\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport 2 / Ziggo Sport Free\n🏟️ FC 
+ Twente Stadion\, Enschede\n📊 FC Twente: 13e in de competitiefase (3 pt 
+ uit 1 duels)
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:ba69d464-df4e-5856-9aea-338e90bc452d@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:⚽ AZ - Juventus (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 4\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport 1 / Ziggo Sport 3 / Ziggo Sport Free\
+ n🏟️ AZ Stadion\, Alkmaar\n📊 AZ: 20e in de competitiefase (3 pt uit
+  2 duels)
 LOCATION:AZ Stadion\, Alkmaar
 END:VEVENT
 BEGIN:VEVENT
 UID:ec877129-0bed-5bf2-ab10-e7d5275d3124@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
 SUMMARY:⚽ Feyenoord - Porto (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 5\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stadion Fe
+ ijenoord 'De Kuip'\, Rotterdam\n📊 Feyenoord: 23e in de competitiefase (
+ 3 pt uit 2 duels)
 LOCATION:Stadion Feijenoord 'De Kuip'\, Rotterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:22192d2f-e4cb-5d1b-9c93-5228e9c24253@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
 SUMMARY:⚽ Real Madrid - PSV (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 5\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Estadio Sa
+ ntiago Bernabéu\, Madrid\n📊 PSV: 26e in de competitiefase (1 pt uit 2 
+ duels)
 LOCATION:Estadio Santiago Bernabéu\, Madrid
 END:VEVENT
 BEGIN:VEVENT
 UID:71eb9d28-604d-5ee0-881c-8ba6fcbaac2b@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261126T174500Z
 DTEND:20261126T194500Z
 SUMMARY:⚽ Ajax - Thun (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 4\n🕘 
+ Aftrap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Johan Cru
+ ijff ArenA\, Amsterdam\n📊 Ajax: 25e in de competitiefase (0 pt uit 1 du
+ els)
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:9ab0e6cb-4ee6-52ff-99e8-0a7ea1d50537@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261126T200000Z
 DTEND:20261126T220000Z
 SUMMARY:⚽ Freiburg - FC Twente (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 4\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stadion a
+ m Wolfswinkel\, Freiburg\n📊 FC Twente: 13e in de competitiefase (3 pt u
+ it 1 duels)
 LOCATION:Stadion am Wolfswinkel\, Freiburg
 END:VEVENT
 BEGIN:VEVENT
 UID:d57fb195-35b2-54d8-9c2c-9b4074f55ad0@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261126T200000Z
 DTEND:20261126T220000Z
 SUMMARY:⚽ NEC - Rennes (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 5\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Goffertstadio
+ n\, Nijmegen\n📊 NEC: 27e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:6db8c5db-7d8d-5126-8f72-832cd4efdf27@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261126T200000Z
 DTEND:20261126T220000Z
 SUMMARY:⚽ Sparta Praha - AZ (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 5\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stadion Letn
+ á\, Prague\n📊 AZ: 20e in de competitiefase (3 pt uit 2 duels)
 LOCATION:Stadion Letná\, Prague
 END:VEVENT
 BEGIN:VEVENT
 UID:6f89a541-3c7b-5106-9896-41105c098e9e@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261208T174500Z
 DTEND:20261208T194500Z
 SUMMARY:⚽ Viking - Feyenoord (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 6\n🕘 A
+ ftrap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Viking Sta
+ dion\, Stavanger\n📊 Feyenoord: 23e in de competitiefase (3 pt uit 2 due
+ ls)
 LOCATION:Viking Stadion\, Stavanger
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9ea8ac-cabc-5f08-9570-198c71a9e6ba@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
 SUMMARY:⚽ PSV - Atleti (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 6\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ PSV Stadio
+ n\, Eindhoven\n📊 PSV: 26e in de competitiefase (1 pt uit 2 duels)
 LOCATION:PSV Stadion\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf012dc-f5b6-5fc0-a41d-f9f17129dc58@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261210T174500Z
 DTEND:20261210T194500Z
 SUMMARY:⚽ AZ - Sturm Graz (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 6\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ AZ Stadion\, 
+ Alkmaar\n📊 AZ: 20e in de competitiefase (3 pt uit 2 duels)
 LOCATION:AZ Stadion\, Alkmaar
 END:VEVENT
 BEGIN:VEVENT
 UID:f63b4609-8a76-5d81-b5ec-130f2b7c3931@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261210T174500Z
 DTEND:20261210T194500Z
 SUMMARY:⚽ Ararat-Armenia - NEC (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 6\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Republican St
+ adium after Vazgen Sargsyan\, Yerevan\n📊 NEC: 27e in de competitiefase 
+ (1 pt uit 2 duels)
 LOCATION:Republican Stadium after Vazgen Sargsyan\, Yerevan
 END:VEVENT
 BEGIN:VEVENT
 UID:9061703a-b448-5221-9595-87ad6e0afdb2@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261210T200000Z
 DTEND:20261210T220000Z
 SUMMARY:⚽ Aarhus - FC Twente (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 5\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Randers S
+ tadion\, Randers\n📊 FC Twente: 13e in de competitiefase (3 pt uit 1 due
+ ls)
 LOCATION:Randers Stadion\, Randers
 END:VEVENT
 BEGIN:VEVENT
 UID:43df6c91-447b-5996-8347-855d910bd3bf@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261210T200000Z
 DTEND:20261210T220000Z
 SUMMARY:⚽ Sint-Truidense - Ajax (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 5\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stayen\, 
+ Sint-Truiden\n📊 Ajax: 25e in de competitiefase (0 pt uit 1 duels)
 LOCATION:Stayen\, Sint-Truiden
 END:VEVENT
 BEGIN:VEVENT
 UID:d2aa43c5-08a7-5e5b-aef7-d4cc3e67ca99@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261217T200000Z
 DTEND:20261217T220000Z
 SUMMARY:⚽ Ajax - Getafe (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 6\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Johan Cru
+ ijff ArenA\, Amsterdam\n📊 Ajax: 25e in de competitiefase (0 pt uit 1 du
+ els)
 LOCATION:Johan Cruijff ArenA\, Amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:0208fcfb-0192-5397-ace6-c751982bf72c@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20261217T200000Z
 DTEND:20261217T220000Z
 SUMMARY:⚽ FC Twente - Kairat Almaty (ECL)
-DESCRIPTION:UEFA Conference League – League Phase
+DESCRIPTION:UEFA Conference League – Competitiefase\, speelronde 6\n🕘 
+ Aftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ FC Twente
+  Stadion\, Enschede\n📊 FC Twente: 13e in de competitiefase (3 pt uit 1 
+ duels)
 LOCATION:FC Twente Stadion\, Enschede
 END:VEVENT
 BEGIN:VEVENT
 UID:04f9593c-0b15-5dd6-baba-b1254df16a7c@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270119T174500Z
 DTEND:20270119T194500Z
 SUMMARY:⚽ Galatasaray - Feyenoord (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 7\n🕘 A
+ ftrap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Ali Sami Y
+ en Spor Kompleksi\, Istanbul\n📊 Feyenoord: 23e in de competitiefase (3 
+ pt uit 2 duels)
 LOCATION:Ali Sami Yen Spor Kompleksi\, Istanbul
 END:VEVENT
 BEGIN:VEVENT
 UID:b904f1f1-d543-5cd1-ac67-eb1599c00832@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270120T200000Z
 DTEND:20270120T220000Z
 SUMMARY:⚽ Viking - PSV (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 7\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Viking Sta
+ dion\, Stavanger\n📊 PSV: 26e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Viking Stadion\, Stavanger
 END:VEVENT
 BEGIN:VEVENT
 UID:59e86c45-f057-541d-b2e7-2d52116f1b4f@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270121T174500Z
 DTEND:20270121T194500Z
 SUMMARY:⚽ NEC - Benfica (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 7\n🕘 Aftr
+ ap 18:45 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Goffertstadio
+ n\, Nijmegen\n📊 NEC: 27e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Goffertstadion\, Nijmegen
 END:VEVENT
 BEGIN:VEVENT
 UID:a260bd62-54f3-5c47-9458-d5a7262ef192@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270121T200000Z
 DTEND:20270121T220000Z
 SUMMARY:⚽ AZ - GNK Dinamo (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 7\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ AZ Stadion\, 
+ Alkmaar\n📊 AZ: 20e in de competitiefase (3 pt uit 2 duels)
 LOCATION:AZ Stadion\, Alkmaar
 END:VEVENT
 BEGIN:VEVENT
 UID:3e36e4a9-6b91-5f66-934d-507f70ff8c3e@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
 SUMMARY:⚽ Feyenoord - Leipzig (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 8\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stadion Fe
+ ijenoord 'De Kuip'\, Rotterdam\n📊 Feyenoord: 23e in de competitiefase (
+ 3 pt uit 2 duels)
 LOCATION:Stadion Feijenoord 'De Kuip'\, Rotterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:8c1a903e-38bc-5712-b992-1bac4c8e0fe8@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
 SUMMARY:⚽ PSV - Stuttgart (CL)
-DESCRIPTION:UEFA Champions League – League Phase
+DESCRIPTION:UEFA Champions League – Competitiefase\, speelronde 8\n🕘 A
+ ftrap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ PSV Stadio
+ n\, Eindhoven\n📊 PSV: 26e in de competitiefase (1 pt uit 2 duels)
 LOCATION:PSV Stadion\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 UID:dccc2fe5-6a2f-53a6-8cfa-9200a3b82c51@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270128T200000Z
 DTEND:20270128T220000Z
 SUMMARY:⚽ Benfica - AZ (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 8\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Estádio do S
+ L Benfica\, Lisbon\n📊 AZ: 20e in de competitiefase (3 pt uit 2 duels)
 LOCATION:Estádio do SL Benfica\, Lisbon
 END:VEVENT
 BEGIN:VEVENT
 UID:ab2958a9-6554-5266-9b37-9dd605ec40c6@nl-europa-ical
-DTSTAMP:20261018T232555Z
+DTSTAMP:20261018T233505Z
 DTSTART:20270128T200000Z
 DTEND:20270128T220000Z
 SUMMARY:⚽ Celje - NEC (EL)
-DESCRIPTION:UEFA Europa League – League Phase
+DESCRIPTION:UEFA Europa League – Competitiefase\, speelronde 8\n🕘 Aftr
+ ap 21:00 (NL-tijd)\n📺 Ziggo Sport (zender volgt)\n🏟️ Stadion Celje
+ \, Celje\n📊 NEC: 27e in de competitiefase (1 pt uit 2 duels)
 LOCATION:Stadion Celje\, Celje
 END:VEVENT
 END:VCALENDAR

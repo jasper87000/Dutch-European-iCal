@@ -1,0 +1,32 @@
+{
+ "Champions League|Feyenoord": {
+  "played": 2,
+  "points": 3,
+  "rank": 23
+ },
+ "Champions League|PSV": {
+  "played": 2,
+  "points": 1,
+  "rank": 26
+ },
+ "Conference League|Ajax": {
+  "played": 1,
+  "points": 0,
+  "rank": 25
+ },
+ "Conference League|FC Twente": {
+  "played": 1,
+  "points": 3,
+  "rank": 13
+ },
+ "Europa League|AZ": {
+  "played": 2,
+  "points": 3,
+  "rank": 20
+ },
+ "Europa League|NEC": {
+  "played": 2,
+  "points": 1,
+  "rank": 27
+ }
+}

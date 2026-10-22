@@ -12,21 +12,21 @@
  "Conference League|Ajax": {
   "played": 1,
   "points": 0,
-  "rank": 25
+  "rank": 28
  },
  "Conference League|FC Twente": {
   "played": 1,
   "points": 3,
-  "rank": 13
+  "rank": 14
  },
  "Europa League|AZ": {
-  "played": 2,
-  "points": 3,
-  "rank": 20
+  "played": 3,
+  "points": 6,
+  "rank": 8
  },
  "Europa League|NEC": {
-  "played": 2,
-  "points": 1,
-  "rank": 27
+  "played": 3,
+  "points": 4,
+  "rank": 17
  }
 }

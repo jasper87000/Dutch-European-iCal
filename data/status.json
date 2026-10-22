@@ -1,11 +1,11 @@
 {
- "run_utc": "2026-10-21T18:56:19Z",
+ "run_utc": "2026-10-22T00:59:16Z",
  "sources": {
-  "uefa": "ok: 60 matches, 0 changed/added",
-  "espn": "error: URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+  "uefa": "ok: 60 matches, 1 changed/added",
+  "espn": "ok: 44 matches, 0 changed/added"
  },
  "tv": "ok: 12 channels",
  "standings": "ok: 6 Dutch clubs",
  "matches_in_feed": 60,
- "live_sources_ok": 1
+ "live_sources_ok": 2
 }

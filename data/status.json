@@ -1,10 +1,10 @@
 {
- "run_utc": "2026-10-23T07:00:39Z",
+ "run_utc": "2026-10-23T12:57:53Z",
  "sources": {
   "uefa": "ok: 60 matches, 0 changed/added",
   "espn": "ok: 44 matches, 0 changed/added"
  },
- "tv": "ok: 10 channels",
+ "tv": "ok: 12 channels",
  "standings": "ok: 6 Dutch clubs",
  "matches_in_feed": 60,
  "live_sources_ok": 2

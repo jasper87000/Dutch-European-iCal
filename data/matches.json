@@ -71,6 +71,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 2 / Ziggo Sport Free",
    "uefa_id": "2049628",
    "venue": "Stadion Feijenoord 'De Kuip', Rotterdam"
   },
@@ -261,6 +262,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2049625",
    "venue": "Estadio Santiago Bernabéu, Madrid"
   },
@@ -326,6 +328,7 @@
    "matchday": "Matchday 4",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050364",
    "venue": "Johan Cruijff ArenA, Amsterdam"
   },
@@ -556,6 +559,7 @@
    "matchday": "Matchday 4",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 2 / Ziggo Sport Free",
    "uefa_id": "2050365",
    "venue": "Stadion am Wolfswinkel, Freiburg"
   },
@@ -833,6 +837,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 3 / Ziggo Sport Free",
    "uefa_id": "2050145",
    "venue": "Goffertstadion, Nijmegen"
   },
@@ -857,6 +862,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050138",
    "venue": "Stadion Letná, Prague"
   },

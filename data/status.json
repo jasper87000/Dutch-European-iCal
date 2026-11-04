@@ -1,10 +1,10 @@
 {
- "run_utc": "2026-11-04T07:32:09Z",
+ "run_utc": "2026-11-04T13:23:08Z",
  "sources": {
   "uefa": "ok: 60 matches, 0 changed/added",
   "espn": "ok: 44 matches, 0 changed/added"
  },
- "tv": "error: TimeoutError: The read operation timed out",
+ "tv": "ok: 12 channels",
  "standings": "ok: 6 Dutch clubs",
  "matches_in_feed": 60,
  "live_sources_ok": 2

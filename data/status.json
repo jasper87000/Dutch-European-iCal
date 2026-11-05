@@ -1,11 +1,11 @@
 {
- "run_utc": "2026-11-04T19:13:51Z",
+ "run_utc": "2026-11-05T01:23:33Z",
  "sources": {
-  "uefa": "ok: 60 matches, 0 changed/added",
-  "espn": "ok: 44 matches, 0 changed/added"
+  "uefa": "ok: 60 matches, 1 changed/added",
+  "espn": "error: URLError: <urlopen error [Errno 104] Connection reset by peer>"
  },
  "tv": "ok: 12 channels",
  "standings": "ok: 6 Dutch clubs",
  "matches_in_feed": 60,
- "live_sources_ok": 2
+ "live_sources_ok": 1
 }

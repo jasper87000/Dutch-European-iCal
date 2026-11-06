@@ -1,7 +1,7 @@
 {
- "run_utc": "2026-11-05T19:12:10Z",
+ "run_utc": "2026-11-06T01:26:05Z",
  "sources": {
-  "uefa": "ok: 60 matches, 0 changed/added",
+  "uefa": "ok: 60 matches, 4 changed/added",
   "espn": "ok: 44 matches, 0 changed/added"
  },
  "tv": "ok: 10 channels",

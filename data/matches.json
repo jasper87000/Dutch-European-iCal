@@ -428,6 +428,10 @@
    "kickoff_utc": "2026-11-05T17:45:00Z",
    "matchday": "Matchday 3",
    "round": "League Phase",
+   "score": [
+    1,
+    6
+   ],
    "source": "uefa",
    "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050348",
@@ -486,6 +490,10 @@
    "kickoff_utc": "2026-11-05T20:00:00Z",
    "matchday": "Matchday 3",
    "round": "League Phase",
+   "score": [
+    3,
+    1
+   ],
    "source": "uefa",
    "tv": "Ziggo Sport 2 / Ziggo Sport Free",
    "uefa_id": "2050354",
@@ -670,6 +678,10 @@
    "kickoff_utc": "2026-11-05T20:00:00Z",
    "matchday": "Matchday 4",
    "round": "League Phase",
+   "score": [
+    1,
+    2
+   ],
    "source": "uefa",
    "tv": "Ziggo Sport 1 / Ziggo Sport 3 / Ziggo Sport Free",
    "uefa_id": "2050114",
@@ -831,6 +843,10 @@
    "kickoff_utc": "2026-11-05T17:45:00Z",
    "matchday": "Matchday 4",
    "round": "League Phase",
+   "score": [
+    3,
+    1
+   ],
    "source": "uefa",
    "tv": "Ziggo Sport Free / Ziggo Sport 2",
    "uefa_id": "2050126",

@@ -163,6 +163,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2049656",
    "venue": "PSV Stadion, Eindhoven"
   },
@@ -283,6 +284,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2049651",
    "venue": "Viking Stadion, Stavanger"
   },
@@ -307,6 +309,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 2 / Ziggo Sport 3 / Ziggo Sport Free",
    "uefa_id": "2050394",
    "venue": "Randers Stadion, Randers"
   },
@@ -349,6 +352,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050401",
    "venue": "Johan Cruijff ArenA, Amsterdam"
   },
@@ -479,6 +483,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 2 / Ziggo Sport Free",
    "uefa_id": "2050409",
    "venue": "FC Twente Stadion, Enschede"
   },
@@ -605,6 +610,7 @@
    "matchday": "Matchday 5",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050387",
    "venue": "Stayen, Sint-Truiden"
   },
@@ -696,6 +702,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 2 / Ziggo Sport Free",
    "uefa_id": "2050151",
    "venue": "AZ Stadion, Alkmaar"
   },
@@ -725,6 +732,7 @@
    "matchday": "Matchday 6",
    "round": "League Phase",
    "source": "uefa",
+   "tv": "Ziggo Sport 3 / Ziggo Sport Free",
    "uefa_id": "2050164",
    "venue": "Republican Stadium after Vazgen Sargsyan, Yerevan"
   },

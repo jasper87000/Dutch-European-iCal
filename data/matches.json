@@ -346,6 +346,10 @@
    "kickoff_utc": "2026-11-26T17:45:00Z",
    "matchday": "Matchday 4",
    "round": "League Phase",
+   "score": [
+    4,
+    0
+   ],
    "source": "uefa",
    "tv": "Ziggo Sport 1 / Ziggo Sport Free",
    "uefa_id": "2050364",
